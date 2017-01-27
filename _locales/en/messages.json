@@ -1,0 +1,11 @@
+{
+  "title": {
+    "message": "Excel XLS Editor"
+  },
+  "description": {
+    "message": "Create and edit Excel XLS spreadsheets"
+  },
+  "new_sheet": {
+    "message": "New Excel XLS spreadsheet"
+  }
+}

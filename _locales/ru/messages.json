@@ -1,0 +1,13 @@
+{
+  "title": {
+    "message": "Excel XLS Editor"
+  },
+  "description": {
+    "message": "Создание и редактирование электронных таблиц Excel XLS"
+  },
+  "new_sheet": {
+    "message": "Новый Excel XLS таблицы"
+  }
+}
+
+

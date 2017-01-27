@@ -1,0 +1,12 @@
+{
+  "title": {
+    "message": "Excel XLS Editor"
+  },
+  "description": {
+    "message": "Excel XLS elektronik tablolarını oluşturma ve düzenleme"
+  },
+  "new_sheet": {
+    "message": "Yeni Excel XLS elektronik tablosu"
+  }
+}
+

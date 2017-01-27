@@ -1,0 +1,12 @@
+{
+  "title": {
+    "message": "Excel XLS Editor"
+  },
+  "description": {
+    "message": "Creare e modificare fogli di calcolo di Excel XLSs"
+  },
+  "new_sheet": {
+    "message": "Nuovo foglio di calcolo XLS Excel"
+  }
+}
+

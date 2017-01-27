@@ -1,0 +1,11 @@
+{
+  "title": {
+    "message": "Excel XLS Editor"
+  },
+  "description": {
+    "message": "Crear y editar hojas de cálculo Excel XLS"
+  },
+  "new_sheet": {
+    "message": "Nueva hoja de cálculo Excel XLS"
+  }
+}

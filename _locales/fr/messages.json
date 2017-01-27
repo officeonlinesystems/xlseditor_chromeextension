@@ -1,0 +1,12 @@
+{
+  "title": {
+    "message": "Excel XLS Éditeur"
+  },
+  "description": {
+    "message": "Créer et modifier des tableurs Excel XLS"
+  },
+  "new_sheet": {
+    "message": "Nouvelle feuille de calcul Excel XLS"
+  }
+}
+
